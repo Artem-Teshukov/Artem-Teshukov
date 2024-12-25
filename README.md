@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hello world!
 
-# Bob
+# I am a junior software developer currently learning HTML, CSS, JavaScript and Python!
 
 <!--
 **Artem-Teshukov/Artem-Teshukov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
